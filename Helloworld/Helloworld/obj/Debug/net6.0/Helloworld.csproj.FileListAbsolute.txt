@@ -1,0 +1,15 @@
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.exe
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.deps.json
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.runtimeconfig.json
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.dll
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\bin\Debug\net6.0\Helloworld.pdb
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.csproj.AssemblyReference.cache
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.AssemblyInfoInputs.cache
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.AssemblyInfo.cs
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.dll
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\obj\Debug\net6.0\refint\Helloworld.dll
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.pdb
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\obj\Debug\net6.0\Helloworld.genruntimeconfig.cache
+C:\Users\elias\OneDrive\Documents\GitHub\Helloworld\Helloworld\Helloworld\obj\Debug\net6.0\ref\Helloworld.dll
